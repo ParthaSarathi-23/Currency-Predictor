@@ -51,7 +51,7 @@ The model has been trained using a Random Forest algorithm and stored in Pickle 
 - `notebooks/`: Jupyter notebooks for data extraction, exploratory data analysis and model development.
 
 ## Dependencies
-Ensure you have the necessary dependencies installed. You can use the following command to install them:
+Ensure you have the necessary dependencies installed(for colab). You can use the following command to install them:
 
 ```bash
 pip install -r requirements.txt
