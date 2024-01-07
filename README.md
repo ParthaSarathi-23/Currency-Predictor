@@ -1,10 +1,10 @@
 # Currency-Predictor
 
 ## Overview
-The currency rate predictor involves predicting currency rates for 32 different countries using a Random Forest model. The data has been extracted from the Free Currency API, and the prediction includes both individual country rates and conversion rates between countries.
+The **Currency Rate Predictor** involves predicting currency rates for 33 different countries using a Random Forest model. The data has been extracted from the Free Currency API, and the prediction includes both individual country rates and conversion rates between countries.
 
 ## Data Source
-Data has been collected using the Free Currency API. The dataset consists of 32 files, each corresponding to a specific country, with 100 rows and 32 columns. 
+Data has been collected using the Free Currency API. The dataset consists of 33 files, each corresponding to a specific country, with 100 rows and 33 columns. 
 
 ## Currency Codes and Full Forms
 - **AUD:** Australian Dollar
@@ -41,11 +41,14 @@ Data has been collected using the Free Currency API. The dataset consists of 32 
 - **USD:** United States Dollar
 - **ZAR:** South African Rand
 
+## Model Performance
+The model has been trained using a Random Forest algorithm and stored in Pickle file. Evaluation metrics such as Mean Absolute Error (MAE) or Mean Squared Error (MSE) have been used to assess the model's accuracy.
+
 ## Project Structure
 - `data/`: Contains the datasets for each country.
-- `src/`: Includes the Python code for data extraction, preprocessing, model training, and evaluation.
+- `src/`: Includes the Python code for Prediction.
 - `models/`: Stores the trained Random Forest model.
-- `notebooks/`: Jupyter notebooks for exploratory data analysis and model development.
+- `notebooks/`: Jupyter notebooks for data extraction, exploratory data analysis and model development.
 
 ## Dependencies
 Ensure you have the necessary dependencies installed. You can use the following command to install them:
