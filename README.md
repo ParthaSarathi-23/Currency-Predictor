@@ -1,10 +1,10 @@
 # Currency-Predictor
 
 ## Overview
-The **Currency Rate Predictor** involves predicting currency rates for 33 different countries using a Random Forest model. The data has been extracted from the Free Currency API, and the prediction includes both individual country rates and conversion rates between countries.
+The **Currency Rate Predictor** involves predicting currency rates for 33 different countries using a Random Forest model. The data has been extracted from the Free Currency API, and the prediction includes both individual country rates and conversion rates between countries. You can do live conversion.
 
 ## Data Source
-Data has been collected using the Free Currency API. The dataset consists of 33 files, each corresponding to a specific country.It consist of last one year data(From: 01-01-2023 To: 31-12-2023).  
+Data has been collected using the Free Currency API. The dataset consists of 33 files, each corresponding to a specific country. It consist of last one year data(From: 01-01-2023 To: 31-12-2023).  
 
 ## Currency Codes and Full Forms
 - **AUD:** Australian Dollar
