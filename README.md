@@ -4,7 +4,7 @@
 The **Currency Rate Predictor** involves predicting currency rates for 33 different countries using a Random Forest model. The data has been extracted from the Free Currency API, and the prediction includes both individual country rates and conversion rates between countries.
 
 ## Data Source
-Data has been collected using the Free Currency API. The dataset consists of 33 files, each corresponding to a specific country, with 100 rows and 33 columns. 
+Data has been collected using the Free Currency API. The dataset consists of 33 files, each corresponding to a specific country.It consist of last one year data(From: 01-01-2023 To: 31-12-2023).  
 
 ## Currency Codes and Full Forms
 - **AUD:** Australian Dollar
@@ -49,6 +49,9 @@ The model has been trained using a Random Forest algorithm and stored in Pickle 
 - `src/`: Includes the Python code for Prediction.
 - `models/`: Stores the trained Random Forest model.
 - `notebooks/`: Jupyter notebooks for data extraction, exploratory data analysis and model development.
+
+## Note
+I have not given the models.pkl file.Run the colab for the models.pkl file
 
 ## Dependencies
 Ensure you have the necessary dependencies installed(for colab). You can use the following command to install them:
