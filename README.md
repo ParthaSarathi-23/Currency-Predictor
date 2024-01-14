@@ -61,3 +61,6 @@ pip install -r requirements.txt
 ```
 
 ![Alt Text](https://github.com/ParthaSarathi-23/Currency-Predictor/blob/main/image/img-1.jpg?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/Currency-Predictor/blob/main/image/img-2.jpg?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/Currency-Predictor/blob/main/image/img-3.jpg?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/Currency-Predictor/blob/main/image/img-4.jpg?raw=true)
