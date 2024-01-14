@@ -58,5 +58,6 @@ Ensure you have the necessary dependencies installed(for colab). You can use the
 
 ```bash
 pip install -r requirements.txt
+```
 
 ![Alt Text](https://github.com/ParthaSarathi-23/Currency-Predictor/blob/main/image/img-1.jpg?raw=true)
