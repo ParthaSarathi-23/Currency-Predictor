@@ -59,4 +59,4 @@ Ensure you have the necessary dependencies installed(for colab). You can use the
 ```bash
 pip install -r requirements.txt
 
-![Alt Text](Screenshot 2024-01-14 201954.png)
+![Alt Text]([Screenshot 2024-01-14 201954.png](https://github.com/ParthaSarathi-23/Currency-Predictor/blob/main/Screenshot%202024-01-14%20201954.png)https://github.com/ParthaSarathi-23/Currency-Predictor/blob/main/Screenshot%202024-01-14%20201954.png)
